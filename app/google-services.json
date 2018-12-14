@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "246227800264",
+    "firebase_url": "https://foneoi.firebaseio.com",
+    "project_id": "foneoi",
+    "storage_bucket": "foneoi.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:246227800264:android:1413d3d675ba79fc",
+        "android_client_info": {
+          "package_name": "com.example.g_min.foneoi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "246227800264-0p6in4mbpc7oshsu8m1p37ldf7gir1u4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.g_min.foneoi",
+            "certificate_hash": "45748ce312662716e34f44ed6fbd265b8cd115ff"
+          }
+        },
+        {
+          "client_id": "246227800264-21le0g79lm9sk5e5heke4uq2psn3178o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAx95gkPC8zjifpLsfFXwqg1rYcFE6L5bg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "246227800264-21le0g79lm9sk5e5heke4uq2psn3178o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
